@@ -1,6 +1,39 @@
+2026-06-13 Mike Gabriel
+
+        * Release 26.6.0 (HEAD -> main, tag: 26.6.0)
+
+2025-07-11 Mike Gabriel
+
+        * Merge branch 'sunweaver-pr/appindicator-glib-support' (c4c5f3f)
+
+2025-03-09 Robert Tari
+
+        * src/ayatana-application-service-marshal.list: Replace deprecated
+          BOOL token (aa8c202)
+        * src/indicator-application.c: Replace deprecated
+          gtk_widget_get_style (4b03679)
+
+2024-10-18 Robert Tari
+
+        * Allow the service to handle tooltips (f61a6ca)
+
+2025-06-06 Robert Tari
+
+        * d/control: Build with libayatana-appindicator-glib (d171bba)
+
+2024-09-26 Robert Tari
+
+        * Allow the service to handle both legacy menus and the new GMenu
+          (7949738)
+        * Whitespace fix (26523e2)
+
+2024-10-18 Robert Tari
+
+        * Whitespace fix (42aa573)
+
 2022-02-17 Mike Gabriel
 
-        * release 22.2.0 (HEAD -> main, tag: 22.2.0)
+        * release 22.2.0 (20bf807) (tag: 22.2.0)
         * Merge branch 'tari01-pr/cleanup-compile-flags' (0ef4fc1)
 
 2022-02-17 Robert Tari

@@ -1,3 +1,12 @@
+Overview of changes in ayatana-indicator-application 26.6.0
+
+  - src/ayatana-application-service-marshal.list: Replace deprecated
+    BOOL token.
+  - src/indicator-application.c: Replace deprecated
+    gtk_widget_get_style.
+  - Allow the service to handle tooltips.
+  - Allow the service to handle both legacy menus and the new GMenu.
+
 Overview of changes in ayatana-indicator-application 22.2.0
 
   - Upstream version bump to new release versioning scheme:
